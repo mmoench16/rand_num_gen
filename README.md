@@ -6,4 +6,6 @@ Here the link to the app itself:
 
 [Random Number Generator Web App](https://rand-num-generator-web-app.herokuapp.com/index.php).
 
-![Mock-Up of Random Number Generator Web App](static/mockup-rng.png)
+<a href="https://rand-num-generator-web-app.herokuapp.com/index.php">
+    <img alt="Mock-Up of Random Number Generator Web App" src="static/mockup-rng.png">
+</a>
